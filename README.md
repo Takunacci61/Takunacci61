@@ -5,6 +5,21 @@
   Building impactful digital platforms across fintech, healthtech, and diaspora engagement using modern web technologies and AI.
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/takunacci">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Takunacci">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:takudzwanyagweta@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -23,14 +38,14 @@ My mission is to use technology to solve meaningful problems at scale, whether i
 
 ### 🚀 Highlighted Projects
 
-- **Kurira App**  
+- **🌐 Kurira App**  
   A cross-border platform connecting the Zimbabwean diaspora with local events, business directories, and international services. Built with Django, Vue.js, and REST APIs.  
   → [https://kurira.com](https://kurira.com)
 
-- **Voice-Based AI Health Assistant**  
-  A voice-first interface where users can call an AI-powered assistant for real-time medical advice, enhanced with sentiment analysis and conversational history.
+- **🧠 Voice-Based AI Health Assistant**  
+  An AI-powered system that lets users call a virtual assistant, have real-time conversations, and receive sentiment-aware health recommendations.
 
-- **Caregraphy.com**  
+- **📊 Caregraphy.com**  
   A healthcare analytics platform that provides patient-centric insights and trend visualizations for clinical professionals. Built using Django, PostgreSQL, and React.  
   → [https://caregraphy.com](https://caregraphy.com)
 
@@ -65,5 +80,13 @@ My mission is to use technology to solve meaningful problems at scale, whether i
 
 ---
 
+### 🤝 Let's Connect
 
-> _“Technology should be an equaliser. I build to empower.”_
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📫 Email: takudzwanyagweta@example.com
+- 🐦 Twitter: [@Takunacci](https://twitter.com/Takunacci)
+- 💼 LinkedIn: [linkedin.com/in/takunacci](https://linkedin.com/in/takunacci)
+
+---
+
+> _“Technology should be an equalizer. I build to empower.”_
